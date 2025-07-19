@@ -1,5 +1,5 @@
-```jsx
-const { useState } = React;
+'''js
+const e = React.createElement;
 
 const personalities = [
   "Funny",
