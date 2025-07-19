@@ -19,7 +19,7 @@ function App() {
   const [input, setInput] = useState("");
 
   const sendMessage = () => {
-    if (!input.trim()) return;
+    if (!input.trim()) return; you 
     setMessages([...messages, { from: "user", text: input }]);
 
     setTimeout(() => {style={{
