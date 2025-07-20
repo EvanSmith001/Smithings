@@ -1,4 +1,4 @@
-```js
+js
 const e = React.createElement;
 
 const personalities = [
@@ -109,4 +109,3 @@ function App() {
 }
 
 ReactDOM.render(e(App), document.getElementById("root"));
-```
